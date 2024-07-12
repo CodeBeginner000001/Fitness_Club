@@ -8,6 +8,7 @@ export default function HorizontalScrollbar({ data, bodyPart, setBodyPart ,isbod
       style={{
         display: "flex",
         overflow: "auto",
+        overflowY:"hidden"
       }}
     >
       {data.map((item) => (
