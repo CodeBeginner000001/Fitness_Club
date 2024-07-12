@@ -1,7 +1,7 @@
 import React from "react";
 import { Box } from "@mui/material";
 import Bodyparts from "./BodyParts";
-import ExerciseCard from "../Components/ExerciseCard"
+import ExerciseCard from "./ExerciseCard"
 export default function HorizontalScrollbar({ data, bodyPart, setBodyPart ,isbodyParts}) {
   return (
     <div

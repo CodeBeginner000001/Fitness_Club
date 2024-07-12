@@ -12,7 +12,7 @@ export default function NavBar() {
         </Link>
         <Stack direction="row" alignItems="flex-end" gap="20px" fontSize="18px">
           <Link to="/" style={{textDecoration:"none",color:"#3A1212",borderBottom:"3px solid #FF2625"}}>Home</Link>
-          <a href="#" style={{textDecoration:"none",color:"#3A1212"}}>Exercises</a>
+          <a href="#exercises" style={{textDecoration:"none",color:"#3A1212"}}>Exercises</a>
         </Stack>
       </Stack>
     </div>

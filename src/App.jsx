@@ -8,7 +8,7 @@ import "./App.css"
 import Footer from "./Components/Footer";
 export default function App() {
   return (
-    <Routers>
+  
       <Box width="400px" sx={{width:{xl:'1488px'}}} m="auto">
         <NavBar />
         <Routes>
@@ -17,6 +17,5 @@ export default function App() {
         </Routes>
         <Footer/>
       </Box>
-    </Routers>
   );
 }

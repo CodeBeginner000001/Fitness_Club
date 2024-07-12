@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from "react";
 import { Box, Button, Stack, TextField, Typography } from "@mui/material";
-import HorizontalScrollbar from "../Components/HorizontalScrollbar"
+import HorizontalScrollbar from "./HorizontalScrollbar"
 import { exerciseOptions, fetchData } from "../Utils/fetchData";
 export default function SearchExercises({setExercises,bodyPart,setBodyPart}) {
   const [query, setQuery] = useState("");
-  const [bodyParts, setBodyParts] = useState([]);
+  let [bodyParts, setBodyParts] = useState([]);
 
   useEffect(() => {
     const fetchBodyPart = async () => {
