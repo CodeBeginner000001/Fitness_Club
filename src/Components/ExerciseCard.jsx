@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { Button, Stack, Typography } from "@mui/material";
 export default function ExerciseCard({ exercise }) {
   return (
-    <Link className="exercise-card" to={`/exercise/${exercise.id}`} 
+    <Link className="exercise-card" to={`exercise/${exercise.id}`} 
     onClick={()=>{
       setBodyPart(item);
       window.scrollTo({top:1800,left:100,behavior:"smooth"});
