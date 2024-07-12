@@ -10,7 +10,7 @@ export default function SimilarExercises({targetMuscleExercises,equipmentExercis
         {targetMuscleExercises.length ? <HorizontalScrollbar data={targetMuscleExercises}/>:<Loader/>}
       </Stack>
 
-      <Typography variant='h3' mb={5} ml={3}>Exercise that uses same <span style={{color:"#ff2625"}}>Equipment</span></Typography>
+      <Typography variant='h3' mt={5} mb={5} ml={3}>Exercise that uses same <span style={{color:"#ff2625"}}>Equipment</span></Typography>
       <Stack direction="row" sx={{p:'2',position:'relative',overflowY:"hidden"}}>
         {equipmentExercises.length ? <HorizontalScrollbar data={equipmentExercises}/>:<Loader/>}
       </Stack>

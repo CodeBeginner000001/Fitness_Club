@@ -18,7 +18,8 @@ export default function ExerciseVideos({ youtubeDetails, name }) {
         flexWrap="nowrap"
         overflow="auto"
         alignItems="center"
-        sx={{ flexDirection:"row", gap: { lg: "110px", xs: "0" },overflowY:"hidden" }}
+        
+        sx={{ flexDirection:{lg:"row"}, gap: { lg: "110px", xs: "0" },overflowY:"hidden"}}
       >
         {youtubeDetails?.slice(0, youtubeDetails.length).map((item, index) => (
           <a
