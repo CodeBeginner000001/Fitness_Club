@@ -1,6 +1,5 @@
-Sure, here's the updated README file with the additional information:
-
 # Fitness Club Website
+<img width="1320" alt="Screenshot 2024-07-12 at 9 15 16 PM" src="https://github.com/user-attachments/assets/29916270-bc12-4f3d-9888-27da7236fb1e">
 
 ## Table of Contents
 - [Overview](#overview)
