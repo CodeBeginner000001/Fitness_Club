@@ -22,7 +22,7 @@ export const youtubeOptions = {
 
 export const fetchData=async (url,options)=>{
     const response=await fetch(url,options);
-	console.log(import.meta.env);
+	// console.log(import.meta.env);
     const data=await response.json();
     return data;
 }
