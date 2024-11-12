@@ -8,6 +8,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [File Structure](#file-structure)
+- [Final View](#final-view)
 - [Contributing](#contributing)
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
@@ -81,7 +82,31 @@ fitness-club-website/
 ├── README.md          # README file
 └── vite.config.js     # Vite configuration file
 ```
-
+## Final View
+<p align = "center">
+   <img width="1512" alt="Screenshot 2024-11-12 at 6 40 54 PM" src="https://github.com/user-attachments/assets/8ef2f969-07f6-4ff2-af76-1bde1063a782">
+</p>
+<hr>
+<p align = "center">
+   <img width="1510" alt="Screenshot 2024-11-12 at 6 41 04 PM" src="https://github.com/user-attachments/assets/a568d5b2-465d-44b0-a19f-ac7d7e659ada">
+</p>
+<hr>
+<p align = "center">
+   <img width="1505" alt="Screenshot 2024-11-12 at 6 42 02 PM" src="https://github.com/user-attachments/assets/83fe1326-5d1e-48a7-93be-0ce3e6435869">
+</p>
+<hr>
+<p align = "center">
+   <img width="1512" alt="Screenshot 2024-11-12 at 6 41 16 PM" src="https://github.com/user-attachments/assets/5c05e4e3-b48d-4cf3-9fc8-9b1d787ef374">
+</p>
+<hr>
+<p align = "center">
+   <img width="1512" alt="Screenshot 2024-11-12 at 6 41 29 PM" src="https://github.com/user-attachments/assets/5bc819c1-e2b2-4a93-846a-591f41460684">
+</p>
+<hr>
+<p align = "center">
+   <img width="1512" alt="Screenshot 2024-11-12 at 6 41 47 PM" src="https://github.com/user-attachments/assets/bfc52dda-f919-4bd9-a76f-ba57ebfa6352">
+</p>
+<hr>
 ## Contributing
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 1. Fork the repository.
