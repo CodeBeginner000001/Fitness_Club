@@ -107,6 +107,7 @@ fitness-club-website/
    <img width="1512" alt="Screenshot 2024-11-12 at 6 41 47 PM" src="https://github.com/user-attachments/assets/bfc52dda-f919-4bd9-a76f-ba57ebfa6352">
 </p>
 <hr>
+
 ## Contributing
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 1. Fork the repository.
